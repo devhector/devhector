@@ -1,4 +1,4 @@
-## Hi friend :smile:
+<h3>Hi friend 🤙🏽️</h3>
 
 <img src="./src/02.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="retro computer">
 
