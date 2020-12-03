@@ -5,10 +5,10 @@
 
 <p align="left">
 
-<strong>
+
 Hi friend 🤙🏽️ <br/>
 I'm <b>Hector</b>. Student of Engineering Computer at UFPEL 
-</strong>
+
 
 </p>
 <!--
