@@ -1,6 +1,12 @@
 
 <img src="./src/retrocomputer.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="retro computer">
-<p align="left" style="margin-top:15px">Hi friend 🤙🏽️, i'm <b>Hector</b>. </p>
+
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p align="left">Hi friend 🤙🏽️, i'm <b>Hector</b>. </p>
 
 
 <!--
