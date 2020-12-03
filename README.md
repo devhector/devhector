@@ -1,5 +1,5 @@
 
-<img src="./src/retrocomputer0.1.gif" align="right" min-width="200px" max-width="200px" width="200px" alt="retro computer">
+<img src="./src/retrocomputer0.1.gif" align="right" min-width="300px" max-width="300px" width="300px" alt="retro computer">
 
 
 <p align="left">Hi friend 🤙🏽️</p>
