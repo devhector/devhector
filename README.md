@@ -5,8 +5,8 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p align="left">Hi friend 🤙🏽️, i'm <b>Hector</b>. </p>
+<p align="left">Hi friend 🤙🏽️</p>
+<p> I'm <b>Hector</b>. Student of Engineering Computer at UFPEL </p>
 
 
 <!--
