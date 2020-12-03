@@ -1,6 +1,7 @@
-<h3>Hi friend 🤙🏽️</h3>
 
 <img src="./src/retrocomputer.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="retro computer">
+<p align="left">Hi friend 🤙🏽️, i'm <b>Hector</b>. </p>
+
 
 <!--
 **hectorhu17/hectorhu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
