@@ -1,10 +1,14 @@
 
-<p align="center">
+
 <img src="./src/retrocomputer0.1.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="retro computer">
 
 
-<p align="left">Hi friend 🤙🏽️</p>
-<p> I'm <b>Hector</b>. Student of Engineering Computer at UFPEL </p>
+<p align="left">
+
+<strong>
+Hi friend 🤙🏽️ <br/>
+I'm <b>Hector</b>. Student of Engineering Computer at UFPEL 
+</strong>
 
 </p>
 <!--
