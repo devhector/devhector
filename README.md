@@ -1,16 +1,17 @@
 
 
-<img src="./src/retrocomputer0.2.gif" align="right" min-width="400px" max-width="400px" width="400px" alt="retro computer">
+<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer">
 
 
 <p align="left">
 
 
 Hi friend 🤙🏽️ <br/>
-I'm <b>Hector</b>. Student of Engineering Computer at UFPEL 
+I'm <b>Hector</b>. Computer engineering student at UFPEL.
 
 
 </p>
+
 <!--
 **hectorhu17/hectorhu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
