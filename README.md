@@ -1,6 +1,6 @@
 
 
-<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer">
+<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="240" width="320">
 
 
 <p align="left">
