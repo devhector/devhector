@@ -11,6 +11,8 @@ I'm <b>Hector</b>. Computer engineering student at UFPEL. <br/>
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&layout=compact&theme=dracula"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula">
+  
 
 
 </p>
