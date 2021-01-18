@@ -10,7 +10,7 @@ Hi friend 🤙🏽️ <br/>
 I'm <b>Hector</b>. Computer engineering student at UFPEL. <br/>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&layout=compact&theme=dracula&locale=pt"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&layout=compact&theme=dracula"> 
 
 
 </p>
