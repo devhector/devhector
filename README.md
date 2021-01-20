@@ -6,16 +6,16 @@
 <p align="left">
 
 
-Hi friend 🤙🏽️ <br>
-I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
+Hi friend 🤙🏽️ 
 ---
+I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
+
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
   <br>
-  <details>
-  <sumary>WAKATIME</sumary>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula&layout=compact">
-  </details>
+
 
 
 </p>
