@@ -1,6 +1,6 @@
 
 
-<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="270" width="360">
+
 
 
 <p align="left">
@@ -17,12 +17,14 @@ I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
   </details>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
-  <br>
+<p align="left">
+  <details open>
+    <summary>Most used languages</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
+  </details>
+</p>
 
-
-
-
+<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="270" width="360">
 
 </p>
 
