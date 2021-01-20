@@ -10,17 +10,18 @@ Hi friend 🤙🏽️
 ---
 I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
-  <br>
-
-
 <p align="left">
   <details>
     <summary>WAKATIME</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula&layout=compact">
   </details>
 </p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
+  <br>
+
+
+
 
 
 </p>
