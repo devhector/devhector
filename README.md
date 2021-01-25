@@ -6,7 +6,7 @@
 <p align="left">
 
 
-Hi friend <img src="./src/IMG-5048.PNG">
+Hi friend <img src="./src/IMG-5048.PNG" height="50" width="50">
 ---
 
 <img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="270" width="360">
