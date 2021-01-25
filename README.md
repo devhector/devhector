@@ -13,7 +13,7 @@ Hi friend 🤙🏽️
 
 I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 
-<p align="left">
+<p align="right">
   <details>
     <summary>WAKATIME</summary>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula&layout=compact">
