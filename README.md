@@ -21,7 +21,7 @@ I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 </p>
 
 <p align="left">
-  <details open>
+  <details>
     <summary>Most used languages</summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
   </details>
