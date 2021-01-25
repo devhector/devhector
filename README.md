@@ -6,7 +6,7 @@
 <p align="left">
 
 
-Hi friend 🤙🏽️ 
+Hi friend <img src="./src/IMG-5048.PNG">
 ---
 
 <img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="270" width="360">
