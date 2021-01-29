@@ -13,12 +13,6 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 
-<p align="right">
-  <details>
-    <summary>WAKATIME</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&theme=dracula&layout=compact">
-  </details>
-</p>
 
 <p align="left">
   <details>
