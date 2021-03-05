@@ -13,7 +13,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 
-[https://devhector.github.io/](https://devhector.github.io/)
+<a href="https://devhector.github.io/" target="_blank">[https://devhector.github.io/]</a>
 
 <p align="left">
   <details>
