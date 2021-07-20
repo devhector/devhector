@@ -16,7 +16,7 @@ I'm <b>Hector</b>. Computer engineering student at UFPEL. <br>
 <a href="https://devhector.github.io/" target="_blank">[https://devhector.github.io/]</a>
 
 <p align="left">
-  [![Hector's 42 stats](https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true)](https://devhector.github.io/)
+  <img src="https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true"></img>
 
   <details>
     <summary>Most used languages</summary>
