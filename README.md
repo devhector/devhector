@@ -21,8 +21,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
   <details>
     <summary>Activity</summary>
   <img src="https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus"></img>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula"></img>
   </details>
   
 </p>
