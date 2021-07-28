@@ -9,7 +9,7 @@
 Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 ---
 
-<img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="225" width="300">
+<img src="./src/retrocomputer0.2.gif" alt="retro computer" height="225" width="300">
 
 I'm <b>Hector</b>. Computer engineering student at UFPEL and 42 Cadet <br>
 
