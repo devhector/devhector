@@ -19,13 +19,15 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <p align="left">
   
   <details>
+    <summary>Activity</summary>
   <img src="https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus"></img>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
   </details>
   
   <details>
-    <summary>Most used languages</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
+    
+    
   </details>
 </p>
 
