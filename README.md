@@ -25,10 +25,6 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhector&theme=dracula"> 
   </details>
   
-  <details>
-    
-    
-  </details>
 </p>
 
 
