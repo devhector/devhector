@@ -13,10 +13,13 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 I'm <b>Hector</b>. Computer engineering student at UFPEL and 42 Cadet <br>
 
+---
+
 <a href="https://devhector.github.io/" target="_blank">[https://devhector.github.io/]</a>
 
 <p align="left">
   <img src="https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus"></img>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact"></img>
 
   <details>
     <summary>Most used languages</summary>
