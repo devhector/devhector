@@ -3,7 +3,7 @@
 
 
 
-<p align="left">
+<p align="center">
 
 
 Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
