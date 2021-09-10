@@ -11,11 +11,16 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <img src="./src/retrocomputer0.2.gif" align="right" alt="retro computer" height="75" width="100">
 
-<p> I'm <b>Hector</b>. Computer engineering student at UFPEL and 42 Cadet <br> </p>
+<p> I'm <b>Hector</b>. Computer engineering student at UFPEL 🏫 and 42 Cadet 👨🏽‍🚀<br> </p>
 
-<a href="https://devhector.github.io/" target="_blank">[https://devhector.github.io/]</a>
+<p style="font-size=30%">
+<a href="https://devhector.github.io/" target="_blank">[BLOG]</a>
+</p>
 ---
-
+42 Pogress 🏃‍♂️:
+<img src="./src/badges/libftm.png" height="50" width="50">
+<img src="./src/badges/get_next_linem.png" height="50" width="50">
+---
 <p align="left">
   
   <details>
