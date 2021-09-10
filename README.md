@@ -13,13 +13,12 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <p> I'm <b>Hector</b>. Computer engineering student at UFPEL 🏫 and 42 Cadet 👨🏽‍🚀<br> </p>
 
-<p style="font-size=30%">
-<a href="https://devhector.github.io/" target="_blank">[BLOG]</a>
-</p>
+
+<a href="https://devhector.github.io/" target="_blank" style="font-size=30%">[BLOG]</a>
 ---
 42 Pogress 🏃‍♂️:
-<img src="./src/badges/libftm.png" height="50" width="50">
-<img src="./src/badges/get_next_linem.png" height="50" width="50">
+<img src="./src/badges/libftm.png" height="50" width="50" align="left">
+<img src="./src/badges/get_next_linem.png" height="50" width="50" align="left">
 ---
 <p align="left">
   
