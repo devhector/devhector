@@ -24,16 +24,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
  
 ---
 ### Activity: 
-  
-<p align="left">
-  
-  <details>
-    <summary>view</summary>
-  <img src="https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus" align="left"></img>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula" align="left"></img>
-  </details>
-  
-</p>
+   
+![sts](https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus) | ![sts](https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula)
+ :---: | :---: |
 
 ![maneirinhos](https://visitor-badge.glitch.me/badge?page_id=github.com/devhector&left_color=yellow&right_color=yellow)
 <!--
