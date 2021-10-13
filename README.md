@@ -14,7 +14,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <img src="./src/badges/libftm.png" height="100" width="100" align="left">
 <img src="./src/badges/get_next_linem.png" height="100" width="100">
-<img src="./src/badges/ft_printfe.png" height="100" width="100">
+<img src="./src/badges/ft_printfe.png" height="100" width="100" align="left">
     
  
 ---
