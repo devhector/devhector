@@ -5,18 +5,25 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <img src="./src/retrocomputer0.5.gif" align="right" alt="retro computer" height="75" width="100">
 
-<p> I'm <b>Hector</b>. Computer engineering student at UFPEL 🏫 and 42 Cadet 👨🏽‍🚀<br> </p>
+<p> I'm <b>Hector</b>. Computer engineering student at UFPEL 🏫 
+    and Software engineering student at 42SP 👨🏽‍🚀<br> </p>
 
 
 <a href="https://devhector.github.io/" target="_blank">[BLOG]</a>
 ---
 ## 42 progress 📈:  
-
-<img src="./src/badges/libftm.png" height="100" width="100" align="left">
-<img src="./src/badges/get_next_linem.png" height="100" width="100">
-<img src="./src/badges/ft_printfe.png" height="100" width="100">
+<a href="https://github.com/devhector/42_libft">
+<img src="./src/badges/libftm.png" height="90" width="90" align="left">
+</a>
     
- 
+<a href="https://github.com/devhector/42_GNL">
+<img src="./src/badges/get_next_linem.png" height="90" width="90" align="left">
+</a>
+    
+<a href="https://github.com/devhector/42_printf">
+<img src="./src/badges/ft_printfe.png" height="90" width="90">   
+</a>
+    
 ---
 ### Activity: 
    
