@@ -12,6 +12,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <a href="https://devhector.github.io/" target="_blank">[BLOG]</a>
 ---
 ## 42 progress 📈:  
+
+#### FASE 1:
 <a href="https://github.com/devhector/42_libft">
 <img src="./src/badges/libftm.png" height="90" width="90" align="left">
 </a>
@@ -22,6 +24,10 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
     
 <a href="https://github.com/devhector/42_printf">
 <img src="./src/badges/ft_printfe.png" height="90" width="90">   
+</a>
+
+<a href="https://github.com/devhector/42_printf">
+<img src="./src/badges/born2beroote.png" height="90" width="90">   
 </a>
     
 ---
