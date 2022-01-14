@@ -26,7 +26,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <img src="./src/badges/ft_printfe.png" height="90" width="90">   
 </a>
 
-<a href="https://github.com/devhector/42_printf">
+<a href="https://github.com/devhector">
 <img src="./src/badges/born2beroote.png" height="90" width="90">   
 </a>
     
