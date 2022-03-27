@@ -29,7 +29,18 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <a href="https://github.com/devhector">
 <img src="./src/badges/born2beroote.png" height="90" width="90">   
 </a>
-    
+
+<a href="https://github.com/devhector">
+<img src="./src/badges/minitalkm.png" height="90" width="90">   
+</a>
+
+<a href="https://github.com/devhector">
+<img src="./src/badges/so_longe.png" height="90" width="90">   
+</a>
+
+#### FASE 2:
+
+-
 ---
 ### Activity: 
    
