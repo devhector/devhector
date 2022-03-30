@@ -9,7 +9,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
     and Software engineering student at 42SP 👨🏽‍🚀<br> </p>
 
 
-<a href="https://devhector.github.io/" target="_blank">[BLOG]</a>
+<a href="https://hector.dev.br/" target="_blank">[BLOG]</a>
 ---
 ## 42 progress 📈:  
 
