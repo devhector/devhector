@@ -15,11 +15,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 #### FASE 1:
 <a href="https://github.com/devhector/42_libft">
-<img src="./src/badges/libftm.png" height="90" width="90" align="left">
+<img src="./src/badges/libftm.png" height="90" width="90">
 </a>
     
 <a href="https://github.com/devhector/42_GNL">
-<img src="./src/badges/get_next_linem.png" height="90" width="90" align="left">
+<img src="./src/badges/get_next_linem.png" height="90" width="90">
 </a>
     
 <a href="https://github.com/devhector/42_printf">
@@ -44,8 +44,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 ---
 ### Activity: 
    
-![sts](https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus) | ![sts](https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula)
- :---: | :---: |
+<!-- ![sts](https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus) | ![sts](https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula)
+ :---: | :---: | -->
+ 
+| ![sts](https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula) |
+| :----: |
 
 ![maneirinhos](https://visitor-badge.glitch.me/badge?page_id=github.com/devhector&left_color=yellow&right_color=yellow)
 <!--
