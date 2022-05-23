@@ -3,13 +3,10 @@
 Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 ---
 
-<img src="./src/retrocomputer0.5.gif" align="right" alt="retro computer" height="75" width="100">
+<p> I'm <b>Hector</b>. Computer engineering student at <a href="https://portal.ufpel.edu.br/" target="_blank">UFPEL 🏫</a> 
+    and Software engineering student at <a href="https://www.42sp.org.br/" target="_blank">42SP</a>. &emsp; <a href="https://hector.dev.br/" target="_blank"><img src="./src/retrocomputer0.5.gif" alt="retro computer" height="60" width="80"></a><br>
+</p>
 
-<p> I'm <b>Hector</b>. Computer engineering student at UFPEL 🏫 
-    and Software engineering student at 42SP 👨🏽‍🚀<br> </p>
-
-
-<a href="https://hector.dev.br/" target="_blank">[BLOG]</a>
 ---
 ## 42 progress 📈:  
 
