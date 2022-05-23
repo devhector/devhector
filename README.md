@@ -45,6 +45,16 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 ### Activity: 
 
 <!--START_SECTION:waka-->
+
+```text
+Bash         2 hrs 37 mins   ██████████████████▒░░░░░░   73.66 %
+EJS          41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 
