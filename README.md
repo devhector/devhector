@@ -46,7 +46,14 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-   
+
+
+### Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <!-- ![sts](https://badge42.herokuapp.com/api/stats/hectfern?privacyEmail=true&darkmode=true&cursus=42cursus) | ![sts](https://github-readme-stats.vercel.app/api/wakatime?username=devhector&layout=compact&theme=dracula)
  :---: | :---: | -->
  
