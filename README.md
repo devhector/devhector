@@ -47,10 +47,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-EJS        16 mins         ████████████░░░░░░░░░░░░░   48.52 %
-Makefile   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.58 %
-YAML       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+EJS        16 mins         █████████████░░░░░░░░░░░░   51.49 %
+Makefile   10 mins         ████████░░░░░░░░░░░░░░░░░   32.45 %
+YAML       5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
 ```
 
 <!--END_SECTION:waka-->
