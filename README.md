@@ -47,10 +47,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 7 mins     █████████████████░░░░░░░░   67.68 %
-EJS        16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Makefile   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-YAML       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Python     2 hrs 26 mins   █████████████████████████   99.79 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
