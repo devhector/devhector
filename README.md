@@ -47,8 +47,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 59 mins    ████████████████████████▓   98.25 %
-YAML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Python   1 hr 31 mins    ████████████████████████▒   97.74 %
+YAML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
