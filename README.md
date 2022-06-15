@@ -56,11 +56,7 @@ YAML     2 mins          █░░░░░░░░░░░░░░░░░�
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [push-swap 42](https://hector.dev.br/2022/04/22/push-swap-42/)
-- [ft_printf 42](https://hector.dev.br/2021/09/15/ft-printf/)
-- [GNL - get_next_line 42](https://hector.dev.br/2021/08/27/GNL-get-next-line-42/)
-- [Conciliando Faculdade com os side projects](https://hector.dev.br/2021/05/03/Conciliando-Faculdade-com-os-side-projects/)
-- [Teste para estágio [back-end]](https://hector.dev.br/2021/03/03/Teste-para-estagio-back-end/)
+- [Estrutura de dados: Pilha dinâmica](https://dev.to/devhector/estrutura-de-dados-pilha-4m36)
 <!-- BLOG-POST-LIST:END -->
 
 
