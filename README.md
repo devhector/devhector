@@ -47,11 +47,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C            8 hrs 39 mins   ████████████████████████▓   98.18 %
-Makefile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C            12 hrs 53 mins  ███████████████████████▓░   94.84 %
+Makefile     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
