@@ -47,11 +47,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C             11 hrs 28 mins  ███████████████░░░░░░░░░░   60.33 %
-Java          3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Text          1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Makefile      1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+C             12 hrs 9 mins   ██████████████████▒░░░░░░   73.35 %
+Other         2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
 ```
 
 <!--END_SECTION:waka-->
