@@ -47,8 +47,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C             8 hrs 56 mins   ██████████████▓░░░░░░░░░░   58.18 %
-Other         4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+C            6 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.69 %
+Other        4 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
 ```
 
 <!--END_SECTION:waka-->
