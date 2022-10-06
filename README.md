@@ -47,7 +47,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 27 mins   ██████████████░░░░░░░░░░░   55.36 %
+Other      4 hrs 27 mins   █████████████████░░░░░░░░   68.24 %
 ```
 
 <!--END_SECTION:waka-->
