@@ -47,7 +47,10 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Other      2 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.97 %
+C          1 hr 41 mins    █████████████████░░░░░░░░   67.99 %
+Java       33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+Bash       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
