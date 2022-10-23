@@ -47,9 +47,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Java   3 mins          ██████████████░░░░░░░░░░░   55.97 %
-C      2 mins          █████████▓░░░░░░░░░░░░░░░   38.40 %
-Text   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Java   3 mins          ██████████████████████▓░░   90.86 %
+Text   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
 ```
 
 <!--END_SECTION:waka-->
