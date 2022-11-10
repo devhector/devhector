@@ -40,6 +40,17 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <img src="./src/badges/push_swape.png" height="90" width="90">   
 </a>
 
+<a href="https://github.com/devhector">
+<img src="./src/badges/minishelle.png" height="90" width="90">   
+</a>
+
+<a href="https://github.com/devhector">
+<img src="./src/badges/philosopherse.png" height="90" width="90">   
+</a>
+
+<a href="https://github.com/devhector">
+<img src="./src/badges/netpracticee.png" height="90" width="90">   
+</a>
  
 ---
 ### Activity: 
