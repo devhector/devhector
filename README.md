@@ -58,12 +58,12 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 52 mins   █████████████░░░░░░░░░░░░   52.44 %
-HTML         3 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.83 %
-C            1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Markdown     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Makefile     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python       5 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.31 %
+HTML         3 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
+Java         2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+Markdown     41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
