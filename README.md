@@ -58,8 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Java         8 hrs 44 mins   ██████████████▓░░░░░░░░░░   58.91 %
-Other        5 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   39.79 %
+Other        8 hrs 24 mins   █████████████▓░░░░░░░░░░░   54.93 %
 ```
 
 <!--END_SECTION:waka-->
