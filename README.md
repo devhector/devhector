@@ -40,7 +40,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <img src="./src/badges/push_swape.png" height="90" width="90">   
 </a>
 
-<a href="https://github.com/devhector">
+<a href="https://github.com/devhector/42_minishell">
 <img src="./src/badges/minishelle.png" height="90" width="90">   
 </a>
 
