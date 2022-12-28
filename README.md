@@ -58,9 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C          2 hrs 58 mins   ███████████████████████▒░   93.08 %
-Markdown   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Makefile   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+C          2 hrs 37 mins   ███████████████████████░░   92.60 %
+Markdown   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Makefile   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
