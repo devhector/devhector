@@ -58,8 +58,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C          8 hrs 15 mins   ███████████████████████▓░   94.36 %
-Makefile   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+C          6 hrs 45 mins   ███████████████████████▒░   93.21 %
+Makefile   29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
 ```
 
 <!--END_SECTION:waka-->
