@@ -58,10 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-C++          2 hrs 55 mins   ███████████████████░░░░░░   76.58 %
-CMake        33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Makefile     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Python       3 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.16 %
+C++          2 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.93 %
+CMake        33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Makefile     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
