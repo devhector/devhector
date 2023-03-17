@@ -58,8 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Python       19 hrs 10 mins  ████████████████████████░   96.11 %
-Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Python       19 hrs 48 mins  █████████████████████████   99.69 %
 Rust         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
