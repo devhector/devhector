@@ -58,12 +58,10 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 25 mins   ██████████████████▓░░░░░░   74.27 %
-Markdown     37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Bash         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-C            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java         3 hrs 25 mins   ███████████████████░░░░░░   76.49 %
+Markdown     37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Bash         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
