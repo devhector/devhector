@@ -58,9 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 25 mins   ███████████████████░░░░░░   76.49 %
-Markdown     37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Bash         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Java         3 hrs 23 mins   ███████████████████░░░░░░   76.37 %
+Markdown     37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Bash         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
