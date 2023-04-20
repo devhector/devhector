@@ -58,12 +58,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```text
-Java          28 mins         ██████████████▒░░░░░░░░░░   57.46 %
-C             17 mins         █████████░░░░░░░░░░░░░░░░   36.26 %
-TypeScript    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Bash          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Python        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript   1 min           ████████████████▓░░░░░░░░   67.32 %
+Python       0 secs          ████████▒░░░░░░░░░░░░░░░░   32.68 %
 ```
 
 <!--END_SECTION:waka-->
