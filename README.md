@@ -57,7 +57,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
