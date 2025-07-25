@@ -58,10 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Python      2 hrs 48 mins   ██████████████████▒░░░░░░   72.86 %
-SQL         1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python      3 hrs 9 mins    ████████████████░░░░░░░░░   63.43 %
+SQL         1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+TOML        46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
