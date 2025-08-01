@@ -58,8 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 36 mins   ██████████████████████▒░░   89.49 %
-TOML     46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+Python   8 hrs 30 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
