@@ -58,7 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 40 mins   █████████████████████████   100.00 %
+Python       2 hrs 29 mins   █████████████████████▓░░░   86.45 %
+TypeScript   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
