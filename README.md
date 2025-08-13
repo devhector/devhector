@@ -58,9 +58,10 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Python       23 mins         ████████████▒░░░░░░░░░░░░   49.64 %
-TypeScript   20 mins         ███████████░░░░░░░░░░░░░░   44.54 %
-HTML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Java        4 hrs 3 mins    █████████████████████░░░░   84.53 %
+Python      24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+XML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+gitignore   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
