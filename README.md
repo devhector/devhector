@@ -58,10 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Java        4 hrs 3 mins    █████████████████████░░░░   84.53 %
-Python      24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-XML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-gitignore   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Java              9 hrs 39 mins   ██████████████████████▓░░   90.84 %
+Python            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+XML               20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+gitignore         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
