@@ -58,8 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Python     20 mins         ██████████████▓░░░░░░░░░░   59.19 %
-Markdown   14 mins         ██████████▒░░░░░░░░░░░░░░   40.81 %
+Markdown   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
