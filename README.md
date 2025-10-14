@@ -58,11 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     48 mins         █████████████░░░░░░░░░░░░   52.47 %
-Other    24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-YAML     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-SQL      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Java     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
