@@ -58,7 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
