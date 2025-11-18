@@ -58,10 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       31 mins         ███████████████▓░░░░░░░░░   62.76 %
-Other      11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Markdown   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-zsh        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JSON       31 mins         ████████████████████▒░░░░   81.01 %
+Markdown   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+zsh        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
