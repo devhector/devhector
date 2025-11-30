@@ -58,10 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.82 %
-Java   23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-Lua    17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-XML    14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
