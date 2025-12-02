@@ -58,7 +58,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   16 mins         ███████████████████████▒░   93.88 %
+Bash       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
