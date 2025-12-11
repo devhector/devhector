@@ -58,11 +58,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          45 mins         ██████████▓░░░░░░░░░░░░░░   42.97 %
-Java         33 mins         ████████░░░░░░░░░░░░░░░░░   31.82 %
-JavaScript   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-HTML         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JavaScript   11 mins         ██████████████████████▓░░   90.90 %
+HTML         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
