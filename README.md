@@ -58,8 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 mins         ██████████████████████▓░░   90.90 %
-HTML         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Java         1 hr 16 mins    █████████████▒░░░░░░░░░░░   52.91 %
+YAML         52 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
+JavaScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
