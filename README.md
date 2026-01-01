@@ -58,9 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    45 mins         ███████████████░░░░░░░░░░   59.73 %
-YAML   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Java   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+SQL    1 hr 6 mins     ████████████▒░░░░░░░░░░░░   49.61 %
+Java   48 mins         █████████░░░░░░░░░░░░░░░░   36.53 %
+YAML   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->
