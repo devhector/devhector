@@ -58,7 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Text   0 secs          █████████████████████████   100.00 %
+Java             41 mins         ████████████████░░░░░░░░░   63.83 %
+YAML             8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+XML              8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+GitIgnore file   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
