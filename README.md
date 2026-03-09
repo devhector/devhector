@@ -58,7 +58,7 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        1 hr 6 mins           █████████▒░░░░░░░░░░░░░░░   37.91 %
+YAML        1 hr 6 mins           █████████▓░░░░░░░░░░░░░░░   38.09 %
 Java        1 hr 2 mins           █████████░░░░░░░░░░░░░░░░   35.65 %
 XML         28 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
 Bash        12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
