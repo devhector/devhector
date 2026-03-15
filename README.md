@@ -58,7 +58,8 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   21 mins               █████████████████████░░░░   83.66 %
+Bash   4 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
 ```
 
 <!--END_SECTION:waka-->
