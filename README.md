@@ -58,7 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java     54 mins               █████████████████████████   99.67 %
+Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Lua      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
