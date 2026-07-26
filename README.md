@@ -58,11 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 29 mins          ██████████████▓░░░░░░░░░░   59.14 %
-Markdown          24 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-Java Properties   20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Go                10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Bash              3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Java              2 hrs 59 mins         █████████████████░░░░░░░░   67.95 %
+Markdown          31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Java Properties   20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+YAML              17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Go                10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
