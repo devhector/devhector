@@ -58,11 +58,11 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       1 hr 8 mins           ████████████░░░░░░░░░░░░░   47.95 %
-YAML                       30 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Docker                     20 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Python                     15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-TypeScript                 3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Java                       1 hr 6 mins           ████████████▒░░░░░░░░░░░░   48.93 %
+YAML                       30 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Docker                     20 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Python                     15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Nginx configuration file   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
