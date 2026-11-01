@@ -58,10 +58,9 @@ Hi friend <img src="./src/IMG-5048.PNG" height="60" width="60">
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 45 mins         ████████████████████████░   96.52 %
-Java Properties   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Cuda              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-XML               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java   1 hr 12 mins          █████████████████████████   99.54 %
+Cuda   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+XML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
